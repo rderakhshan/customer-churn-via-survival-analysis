@@ -1,1 +1,1 @@
-# customer-churn-via-survival-analysis-Readme.txt
+# customer-churn-via-survival-analysis-Readme
